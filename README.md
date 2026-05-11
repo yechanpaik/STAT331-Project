@@ -1,2 +1,2 @@
 # STAT331 Project (Option A)
-Authors: Caleb Huang and ____
+Authors: Caleb Huang and Sean Paik
